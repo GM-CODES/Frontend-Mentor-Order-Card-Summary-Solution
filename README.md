@@ -4,11 +4,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-[Overview](#overview)
-
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,14 +16,23 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop View](./images/Order%20Summary%20Desktop_View.png)
+![Mobile View](./images/Order%20Summary%20Mobile_View.jpg)
 
 ### Links
 
-- [Add solution URL here](https://your-solution-url.com)
-- [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/GM-CODES/Frontend-Mentor-Order-Card-Summary-Solution)
+- [Live site URL](https://frontend-mentor-order-card-summary-solution.vercel.app/)
 
 ## My process
 
@@ -55,4 +63,4 @@ I still belief I need to learn and apply media query more. I also intends to pro
 
 ## Acknowledgments
 
-Many thanks to Frontend Mentor Community for the opportunity given to budding developers like me to grow. Special thanks to [@Bidex-03](https://www.frontendmentor.io/profile/Bidex-03)
+Many thanks to Frontend Mentor Community for the opportunity given to budding developers like me to grow. Special thanks to [@Bidex-03](https://www.frontendmentor.io/profile/Bidex-03), my indefatigable mentor.
