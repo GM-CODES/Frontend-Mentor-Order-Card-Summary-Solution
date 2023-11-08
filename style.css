@@ -36,8 +36,7 @@ a {
 
 .content-wrap {
   text-align: center;
-  min-width: 100%;
-  min-height: 100%;
+  max-width: 100%;
  }
 
 #container .body-content {
@@ -47,7 +46,7 @@ a {
 
 #container .illustration img, 
 #container .body-content {
- min-width: 100%;
+ max-width: 100%;
 }
 
 #container .body-content {
@@ -55,7 +54,7 @@ a {
 }
 
 .order-details {
-  width: 100%;
+  max-width: 100%;
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -64,6 +63,10 @@ a {
   background: hsl(225, 100%, 98%);
   margin-top: 15px;
 }
+
+/* .order-details div {
+  flex: 1, 2;
+} */
 
 .flex-2 {
   display: flex;
